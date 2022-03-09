@@ -25,5 +25,3 @@ hs_err_pid*
 # editor/ide specific
 .vscode
 *.iws
-.idea/workspace.xml
-.idea/shelf/
